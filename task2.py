@@ -14,5 +14,5 @@ def list_ifname_ip(file):
 					new_file.write(str(ipaddress))
 			else:
 				new_file.write(line)
-(list_ifname_ip(fin)
+list_ifname_ip(fin)
 
